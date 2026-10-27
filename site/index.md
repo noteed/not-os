@@ -36,47 +36,47 @@ as they appear at the top of each page.*
 <section class="w-60-ns pr4 mb5">
 <h1 class="f5 ttu lh-title mb3">Intro</h1>
 <ul class="list pa0 ma0 lh-copy">
-  <li class=mr4><a href="/not-os/index.html">not-os</a>
+  <li class=mr4><a href="/not-os/index.html">not-os</a></li>
 </ul>
 <br />
 <h1 class="f5 ttu lh-title mb3">Notes</h1>
 <ul class="list pa0 ma0 lh-copy">
-  <li class=mr4><a href="/not-os/digital-ocean.html">Digital Ocean</a>
-  <li class=mr4><a href="/not-os/todo.html">TODO</a>
+  <li class=mr4><a href="/not-os/digital-ocean.html">Digital Ocean</a></li>
+  <li class=mr4><a href="/not-os/todo.html">TODO</a></li>
 </ul>
 </section>
 <section class="w-70-ns pr4 mb5">
 <h1 class="f5 ttu lh-title mb3">Main attributes</h1>
 <ul class="list pa0 ma0 lh-copy">
-  <li class=mr4><a href="/not-os/runvm.html">runvm</a>
-  <li class=mr4><a href="/not-os/kernel.html">kernel</a>
-  <li class=mr4><a href="/not-os/initrd.html">initrd</a>
-  <li class=mr4><a href="/not-os/rootfs.html">rootfs</a>
-  <li class=mr4><a href="/not-os/ext4.html">ext4</a>
-  <li class=mr4><a href="/not-os/stage-1.html">stage-1</a>
-  <li class=mr4><a href="/not-os/stage-2.html">stage-2</a>
-  <li class=mr4><a href="/not-os/dist.html">dist</a>
-  <li class=mr4><a href="/not-os/extra-utils.html">extra-utils</a>
-  <li class=mr4><a href="/not-os/path.html">path</a>
-  <li class=mr4><a href="/not-os/shrunk.html">shrunk</a>
-  <li class=mr4><a href="/not-os/toplevel.html">toplevel</a>
-  <li class=mr4><a href="/not-os/boot.html">boot</a>
-  <li class=mr4><a href="/not-os/ext4.html">ext4</a>
-  <li class=mr4><a href="/not-os/raw.html">raw</a>
-  <li class=mr4><a href="/not-os/qcow2.html">qcow2</a>
-  <li class=mr4><a href="/not-os/syslinux.html">syslinux</a>
+  <li class=mr4><a href="/not-os/runvm.html">runvm</a></li>
+  <li class=mr4><a href="/not-os/kernel.html">kernel</a></li>
+  <li class=mr4><a href="/not-os/initrd.html">initrd</a></li>
+  <li class=mr4><a href="/not-os/rootfs.html">rootfs</a></li>
+  <li class=mr4><a href="/not-os/ext4.html">ext4</a></li>
+  <li class=mr4><a href="/not-os/stage-1.html">stage-1</a></li>
+  <li class=mr4><a href="/not-os/stage-2.html">stage-2</a></li>
+  <li class=mr4><a href="/not-os/dist.html">dist</a></li>
+  <li class=mr4><a href="/not-os/extra-utils.html">extra-utils</a></li>
+  <li class=mr4><a href="/not-os/path.html">path</a></li>
+  <li class=mr4><a href="/not-os/shrunk.html">shrunk</a></li>
+  <li class=mr4><a href="/not-os/toplevel.html">toplevel</a></li>
+  <li class=mr4><a href="/not-os/boot.html">boot</a></li>
+  <li class=mr4><a href="/not-os/ext4.html">ext4</a></li>
+  <li class=mr4><a href="/not-os/raw.html">raw</a></li>
+  <li class=mr4><a href="/not-os/qcow2.html">qcow2</a></li>
+  <li class=mr4><a href="/not-os/syslinux.html">syslinux</a></li>
 </ul>
 </section>
 <section class="w-50-ns pr4 mb5">
 <h1 class="f5 ttu lh-title mb3">Values</h1>
 <ul class="list pa0 ma0 lh-copy">
-  <li class=mr4><a href="/not-os/cmdline.html">cmdline</a>
-  <li class=mr4><a href="/not-os/root-modules.html">root-modules</a>
+  <li class=mr4><a href="/not-os/cmdline.html">cmdline</a></li>
+  <li class=mr4><a href="/not-os/root-modules.html">root-modules</a></li>
 </ul>
 <br />
 <h1 class="f5 ttu lh-title mb3">Source</h1>
 <ul class="list pa0 ma0 lh-copy">
-  <li class=mr4><a href="/not-os/default.html">default.nix</a>
+  <li class=mr4><a href="/not-os/default.html">default.nix</a></li>
 </ul>
 </section>
 </div>
